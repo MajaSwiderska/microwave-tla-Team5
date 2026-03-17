@@ -1,3 +1,21 @@
+--------------------------------------------------------------------------------------------
+## Team 5 
+Participants: Maja Swiderska, Melanie Abarca, Pamela Mensah
+
+This repository was used for the in class TLA+ microwave activity. 
+We worked through:
+- Microwave.cfg
+- MicrowaveChecked.cfg
+- MicrowaveChecked2.cfg
+- MicrowaveSafe.cfg
+- MicrowaveStuttering.cfg
+- MicrowaveLive.cfg
+
+Findings and screenshots are documented in our shared Google Doc.
+https://docs.google.com/document/d/1wGPLFinPR1LmctcOF2H-V2KQYruvOugeQqneu7kye-c/edit?tab=t.0
+-------------------------------------------------------------------------------------------
+
+
 # TLA+ Microwave Model
 
 [![Syntax-check models](https://github.com/lucformalmethodscourse/microwave-tla/actions/workflows/main.yml/badge.svg)](https://github.com/lucformalmethodscourse/microwave-tla/actions/workflows/main.yml)
